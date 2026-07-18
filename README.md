@@ -39,5 +39,5 @@ The prototype was constructed on a breadboard using the following components:
 ---
 
 ## 👤 Developer
-* Eng. Noura Abbad Al-Qathami 
+* Eng. Norah  Al-Qathami 
 * Affiliation: Taif University
