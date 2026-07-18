@@ -39,5 +39,5 @@ The prototype was constructed on a breadboard using the following components:
 ---
 
 ## 👤 Developer
-* Eng. Noura Abbad Al-Qathami - [https://github.com/alotibin212-glitch](https://github.com/alotibin212-glitch)
+* Eng. Noura Abbad Al-Qathami 
 * Affiliation: Taif University
